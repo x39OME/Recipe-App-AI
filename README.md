@@ -20,7 +20,7 @@ API_KEY=your_actual_api_key_here
 - npx expo start
 - npm run android
 - npm run ios
-- claude
+- claude Opus 4.7
 
 ## Claude Code
 ### Expo Skills/Plugins
