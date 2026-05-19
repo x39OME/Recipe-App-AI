@@ -17,6 +17,9 @@ npx create-expo-app@latest --template default@sdk-55
 ```
 API_KEY=your_actual_api_key_here
 ```
+- npx expo start
+- npm run android
+- npm run ios
 
 
 ## Claude Code
