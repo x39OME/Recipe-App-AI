@@ -45,7 +45,16 @@ API_KEY=your_actual_api_key_here
 
 ### Prompt
 ```
-        Build a habit tracker app using expo. We're going to have two tabs:
+        > Set up three tabs for the app:
+        * Home
+        * Favorites
+        * Settings  On the home screen, I want:
+        * a text input where I can type what I want to cook
+        * filter chips underneath for things like vegan, keto, gluten-free, dairy-free, and so on
+        * below that, add a big green "Generate Recipe" button
+        * two smaller buttons side by side
+        * one of them will say "Surprise Me"
+        * the "Scan Ingredients" button  Set up the types storage we will need for saving recipes and preferences later.
 
 ```
 
