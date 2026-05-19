@@ -1,4 +1,4 @@
-<img width="728" height="99" alt="image" src="https://github.com/user-attachments/assets/65836216-bcab-446b-b3ff-cf4e1bf044d6" /># Recipe App AI
+# Recipe App AI
 
 ## What did we use in the project?
 ### 1- [Expo SDK 55](https://docs.expo.dev/get-started/create-a-project/)
@@ -21,7 +21,9 @@ API_KEY=your_actual_api_key_here
 - npm run android
 - npm run ios
 - claude Opus 4.7
+- gemini-2.5-flash
 
+  
 ## Claude Code
 ### Expo Skills/Plugins
 
