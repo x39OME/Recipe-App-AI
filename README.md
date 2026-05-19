@@ -13,7 +13,10 @@
 npx create-expo-app@latest --template default@sdk-55
 ```
 - copy api from Google AI Studio -> Get Api Key
-- 
+- open .env file paste API_KEY=
+```
+API_KEY=your_actual_api_key_here
+```
 
 
 ## Claude Code
