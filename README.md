@@ -1,4 +1,4 @@
-# Recipe App AI
+<img width="728" height="99" alt="image" src="https://github.com/user-attachments/assets/65836216-bcab-446b-b3ff-cf4e1bf044d6" /># Recipe App AI
 
 ## What did we use in the project?
 ### 1- [Expo SDK 55](https://docs.expo.dev/get-started/create-a-project/)
@@ -45,7 +45,7 @@ API_KEY=your_actual_api_key_here
 
 ### Prompt
 ```
-        > Set up three tabs for the app:
+        1 > Set up three tabs for the app:
         * Home
         * Favorites
         * Settings  On the home screen, I want:
@@ -56,6 +56,14 @@ API_KEY=your_actual_api_key_here
         * one of them will say "Surprise Me"
         * the "Scan Ingredients" button  Set up the types storage we will need for saving recipes and preferences later.
 
+        2 > Hook up the Gemini API so I can actually generate recipes when I type something like "butter chicken" and tap "generate".
+            It should call Gemini, get back the full recipe, and take me to the detailed screen showing:
+
+           * the title
+           * a description
+           * all the ingredients with amounts
+           * a step-by-step instruction in a nice timeline layout
+           * stats like prep time, cook time, servings, and calories  It should do the same thing but with a random recipe idea.
 ```
 
 ## Preview Final Project
