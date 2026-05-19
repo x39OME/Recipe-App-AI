@@ -1,19 +1,33 @@
 # Recipe App AI
 
-## Install
+## What did we use in the project?
 ### 1- [Expo SDK 55](https://docs.expo.dev/get-started/create-a-project/)
 ### 2- [Google AI Studio](https://aistudio.google.com/apps)
 ### 3- [Expo/skills](https://github.com/expo/skills)
 
 
-
-
 ## Getting Started Expo Applaction
 
 - Open Cmd -> cd desktop
-` npx create-expo-app@latest --template default@sdk-55`
+```
+npx create-expo-app@latest --template default@sdk-55
+```
+- copy api from Google AI Studio -> Get Api Key
+- 
 
 
+## Claude Code
+### Expo Skills/Plugins
+
+- Add the marketplace:
+```
+/plugin marketplace add expo/skills
+```
+
+- Install the plugin:
+```
+/plugin install expo
+ ```
 
  
 ## Prerequisites
@@ -26,21 +40,7 @@
 ### Prompt
 ```
         Build a habit tracker app using expo. We're going to have two tabs:
-        
-        1. The first tab will be the Today tab. This will show today's habits as a checklist. Each habit has an icon name, a check circle, and a progress bar showing the completed/total.
-        2. We will have our Add button in the header to add new habits.
-        3. The Streaks tab will show an overall streak counter, a seven-week calendar heat map like GitHub's contribution graph, and pre-habit streak cards. The Add Habit screen will be presented as a form sheet model from the Today tab. It will have:
-        
-        * Name input
-        * Icon icon picker (like SF Symbols grid)
-        * Color picker as color swatches
-        * Live preview of the habit at the bottom
-        * Save button For the libraries, we want to use:
-        * expo sqlite local storage for persistence
-        * native tabs for a tab bar
-        * reanimated for animations
-        * expo symbols for icons
-        * expo haptics for feedback on iOS
+
 ```
 
 ## Preview Final Project
