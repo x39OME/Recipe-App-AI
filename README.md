@@ -129,21 +129,6 @@ Okay, now I want to improve the app's appearance! Open the app completely and se
 And don't forget to enable data saving if you restart the app in recent updates.  
 ```
 
-## Preview Final Project
-
-##### Page 1
-<img src="" style="width:300px;" alt=" Page" />
-
-
-
-#### Start Screen
-
-
-
-
-
-
-
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
