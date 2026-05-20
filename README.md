@@ -103,7 +103,17 @@ API_KEY=your_actual_api_key_here
 
 
 
+7> Build these settings screens:
 
+    I want a section for dietary defaults, like vegan keto, that automatically applies to every recipe I generate.
+
+    Add a servings picker so I can set how many servings I usually want.
+
+    Add an allergy section where I can type things like peanuts shellfish, and they will always be excluded from the recipes I put.
+
+    I put a clear all button at the bottom to wipe the saved data as well.
+
+    Then go through the whole application and add smooth animations when things appear on the screen and haptic feedbacks when I tap buttons or any toggles.
 
 
 
