@@ -84,6 +84,21 @@ API_KEY=your_actual_api_key_here
 
     Add a recent section in the home screen with the horizontal scrollable list of my last few generated recipes.
 
+5 > Add a camera screen where I can take a photo of my ingredients and the AI figures what's in the picture. Show the        
+  identified ingredients as little chips that I can tap and remove if they are wrong. Then let me generate a recipe from   
+  whatever is left. Put a gallery button next to the shutter button so I can also pick a photo from my camera roll instead 
+   of taking a new one. It should go through this thing. I'm going to use the same scanning flow when generating the       
+  recipe and make sure it uses my dietary preferences and allergies from settings.
+  Also
+* Change the home icon to a fork and knife.                                                                                
+                                                                                                                           
+* When I generate a recipe, the images don't appear. Why? Please investigate the cause of the problem and let me know what 
+   it is and how to fix it.                                                                                                
+                                                                                                                           
+                                                                                                                           
+                                                                                                                       
+                                                                                                                           
+  
 ```
 
 ## Preview Final Project
