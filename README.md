@@ -47,7 +47,7 @@ API_KEY=your_actual_api_key_here
 
 ### Prompt
 ```
-        1 > Set up three tabs for the app:
+1 > Set up three tabs for the app:
         * Home
         * Favorites
         * Settings  On the home screen, I want:
@@ -58,7 +58,7 @@ API_KEY=your_actual_api_key_here
         * one of them will say "Surprise Me"
         * the "Scan Ingredients" button  Set up the types storage we will need for saving recipes and preferences later.
 
-        2 > Hook up the Gemini API so I can actually generate recipes when I type something like "butter chicken" and tap "generate".
+ 2 > Hook up the Gemini API so I can actually generate recipes when I type something like "butter chicken" and tap "generate".
             It should call Gemini, get back the full recipe, and take me to the detailed screen showing:
 
            * the title
@@ -66,6 +66,9 @@ API_KEY=your_actual_api_key_here
            * all the ingredients with amounts
            * a step-by-step instruction in a nice timeline layout
            * stats like prep time, cook time, servings, and calories  It should do the same thing but with a random recipe idea.
+
+3 > Add AI image generation for the recipe. When I open a recipe that doesn't have a photo yet, it should automatically generate one in the background using Gemini and show it as a big image on the top of the recipe screen. While it's generating, show a loading spinner, and when the image is ready, fade it in smoothly. Save the image so that it also shows up on the recipe cards elsewhere in the application.
+
 ```
 
 ## Preview Final Project
