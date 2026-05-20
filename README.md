@@ -96,7 +96,7 @@ API_KEY=your_actual_api_key_here
    it is and how to fix it.                                                                                                
                                                                                                                            
                                                                                                                            
-                                                                                                                       
+6> So when I click on the Generate Recipe button after getting all the ingredients from an image, it says "Expected double quote property name in JSON at position 437", and it shows an alert with this error. Can you find and fix this issue for me?
                                                                                                                            
   
 ```
