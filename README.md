@@ -70,6 +70,20 @@ API_KEY=your_actual_api_key_here
 
 3 > Add AI image generation for the recipe. When I open a recipe that doesn't have a photo yet, it should automatically generate one in the background using Gemini and show it as a big image on the top of the recipe screen. While it's generating, show a loading spinner, and when the image is ready, fade it in smoothly. Save the image so that it also shows up on the recipe cards elsewhere in the application.
 
+4> Add the ability to save recipes as favorites and share them.
+
+    Make the hot button in the recipe details page functional so that I can tap it and save or unsave the recipe.
+
+    Add a share button that sends the recipe as a nice formatted text.
+
+    Generate and add a regenerate button to get the different version of the same recipe.
+
+    Build out the favorites tab with cards showing the image, title, cuisine, and the cook time.
+
+    Long press on the card should be able to delete that favorite recipe.
+
+    Add a recent section in the home screen with the horizontal scrollable list of my last few generated recipes.
+
 ```
 
 ## Preview Final Project
