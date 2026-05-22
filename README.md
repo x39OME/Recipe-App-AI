@@ -4,7 +4,7 @@
 ### 1- [Expo SDK 55](https://docs.expo.dev/get-started/create-a-project/)
 ### 2- [Google AI Studio](https://aistudio.google.com/apps)
 ### 3- [Expo/skills](https://github.com/expo/skills)
-### 4 [](https://expo.dev/expo-skills)
+### 4 [Dev Expo skills](https://expo.dev/expo-skills)
 
 
 ## Getting Started Expo Applaction
