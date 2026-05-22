@@ -21,11 +21,11 @@ API_KEY=your_actual_api_key_here
 - npx expo start
 - npm run android
 - npm run ios
-- claude Opus 4.7
+- claude /model Opus 4.7
 - gemini-2.5-flash
 
   
-## Claude Code
+## Claude Code Opus 4.7
 ### Expo Skills/Plugins
 
 - Add the marketplace:
