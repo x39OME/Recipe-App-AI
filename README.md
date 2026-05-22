@@ -7,6 +7,13 @@
 ### 5- [Expo/skills](https://github.com/expo/skills)
 ### 6- [Dev Expo skills](https://expo.dev/expo-skills)
 
+## Preview Final Project
+
+-
+-
+
+<img src="./preview/" alt="app" />
+
 
 ## Getting Started Expo Applaction
 
@@ -131,13 +138,6 @@ curl -fsSL https://claude.ai/install.sh | bash
     I put a clear all button at the bottom to wipe the saved data as well.
 
     Then go through the whole application and add smooth animations when things appear on the screen and haptic feedbacks when I tap buttons or any toggles.
-
-
-
-
-
-
-
 
 
 
