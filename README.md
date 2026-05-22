@@ -10,7 +10,7 @@
 
 ## Getting Started Expo Applaction
 
-- Open Cmd -> cd desktop
+### Create New Expo App
 ```
 npx create-expo-app@latest --template default@sdk-55
 ```
@@ -19,12 +19,28 @@ npx create-expo-app@latest --template default@sdk-55
 ```
 API_KEY=your_actual_api_key_here
 ```
+### install claude code
+```
+npm install -g @anthropic-ai/claude-code
+```
+### install claude code App Desktop
+  - Windows
+  - Administrator power shell
+```
+irm https://claude.ai/install.ps1 | iex
+```
+  - Mac / Linux
+```
+curl -fsSL https://claude.ai/install.sh | bash
+```
+
+### Commands
 - npx expo start
 - npm run android
 - npm run ios
 - claude /model Opus 4.7
 - gemini-2.5-flash
-
+- API_KEY=your_actual_api_key_here
   
 ## Claude Code
 ### Expo Skills/Plugins
