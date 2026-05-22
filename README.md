@@ -3,8 +3,9 @@
 ## What did we use in the project?
 ### 1- [Expo SDK 55](https://docs.expo.dev/get-started/create-a-project/)
 ### 2- [Google AI Studio](https://aistudio.google.com/apps)
-### 3- [Expo/skills](https://github.com/expo/skills)
-### 4 [Dev Expo skills](https://expo.dev/expo-skills)
+### 4- [Claude Code](https://code.claude.com/docs/en/agent-sdk/migration-guide) Opus 4.7
+### 5- [Expo/skills](https://github.com/expo/skills)
+### 6- [Dev Expo skills](https://expo.dev/expo-skills)
 
 
 ## Getting Started Expo Applaction
@@ -25,7 +26,7 @@ API_KEY=your_actual_api_key_here
 - gemini-2.5-flash
 
   
-## Claude Code Opus 4.7
+## Claude Code
 ### Expo Skills/Plugins
 
 - Add the marketplace:
